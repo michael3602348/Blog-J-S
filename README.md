@@ -27,3 +27,21 @@ puente.webp
 icons/
 abrir-menu.png
 cerrar-menu.png
+
+
+Stack utilizado:
+
+
+HTML.
+
+
+CSS.
+
+
+JAVASCRIPT.
+
+
+Dificultades:
+
+
+Ninguna.
